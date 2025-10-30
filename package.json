@@ -1,6 +1,7 @@
 {
   "name": "vef1-2025-v9",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "source": "src/index.html",
   "directories": {
@@ -16,8 +17,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@eslint/js": "^9.37.0",
-    "eslint": "^9.37.0",
+    "@eslint/js": "^9.38.0",
+    "eslint": "^9.38.0",
     "globals": "^16.4.0",
     "parcel": "^2.16.0"
   }

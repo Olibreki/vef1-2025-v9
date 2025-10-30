@@ -265,7 +265,7 @@ $form.addEventListener("submit", (evt) => {
 });
 
 /**
- * Ræsir forrit; sýnir stakt verk ef ?id= er til.
+ * Ræsir forrit; sýnir stakt verk ef id= er til.
  */
 function boot() {
   const id = new URLSearchParams(window.location.search).get("id");
